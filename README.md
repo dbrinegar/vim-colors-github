@@ -9,9 +9,7 @@ Derived from [Anthony Carapetis]' [vim-github-theme].
 Install
 -------
 
-With [Vundle](https://github.com/gmarik/vundle):
-
-    Bundle 'croaky/vim-colors-github'
+Pathogen:  clone into ~/.vim/bundle
 
 License
 -------
